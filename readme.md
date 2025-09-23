@@ -22,3 +22,9 @@ git config --global user.email "lucas@gmail.com": configura diretório git via e
 git commit -m "Primeiro commit: Commit todos os arquivos que estavam sendo monitorados e informa uma mensagem.
 
 git log: verifica os logs do git
+
+criar chave de acesso ao repositório: ssh-keygen -t rsa -C "lucasdasilva.desenvolvedorlds@gmail.com"
+
+Utilizar em grupo somente a chave que fica no arquivo .pub depois de gerada
+
+git push: joga minhas alterações local para o repositório remoto
