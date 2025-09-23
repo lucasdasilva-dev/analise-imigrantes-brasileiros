@@ -28,3 +28,9 @@ criar chave de acesso ao repositório: ssh-keygen -t rsa -C "lucasdasilva.desenv
 Utilizar em grupo somente a chave que fica no arquivo .pub depois de gerada
 
 git push: joga minhas alterações local para o repositório remoto
+
+git branch: verifica sua base
+
+git push -u origin master: envia para o repositório
+ou
+git push -u origin main: envia para o repositório
