@@ -40,3 +40,5 @@ git clone: passar url do epositorio(git@github.com:lucasdasilva-dev/analise-imig
 git checkout: pega uma branch para trabalhar
 
 gitmerge(nome da branch): para unificar os códigos
+
+git branch -d (nome da branch): faz a exclusão dessa branch.
