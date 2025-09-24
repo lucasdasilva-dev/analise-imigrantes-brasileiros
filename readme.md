@@ -36,3 +36,5 @@ ou
 git push -u origin main: envia para o repositório
 
 git clone: passar url do epositorio(git@github.com:lucasdasilva-dev/analise-imigrantes-brasileiros.git)
+
+git checkout: pega uma branch para trabalhar
