@@ -29,8 +29,10 @@ Utilizar em grupo somente a chave que fica no arquivo .pub depois de gerada
 
 git push: joga minhas alterações local para o repositório remoto
 
-git branch: verifica sua base
+git branch: verifica sua base: master ou base
 
 git push -u origin master: envia para o repositório
 ou
 git push -u origin main: envia para o repositório
+
+git clone: passar url do epositorio(git@github.com:lucasdasilva-dev/analise-imigrantes-brasileiros.git)
