@@ -37,8 +37,10 @@ git push -u origin main: envia para o repositório
 
 git clone: passar url do epositorio(git@github.com:lucasdasilva-dev/analise-imigrantes-brasileiros.git)
 
-git checkout: pega uma branch para trabalhar
+git checkout: pega uma branch para trabalhar / muda local
 
 gitmerge(nome da branch): para unificar os códigos
 
 git branch -d (nome da branch): faz a exclusão dessa branch.
+
+git pull: obter atualizações do repositório central
