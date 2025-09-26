@@ -44,3 +44,13 @@ gitmerge(nome da branch): para unificar os códigos
 git branch -d (nome da branch): faz a exclusão dessa branch.
 
 git pull: obter atualizações do repositório central
+
+git restore projeto_base.ipynb: reseta seu projeto se não estiver na área de stage
+
+git restore --staged projeto_base.ipynb: reseta seu projeto mesmo se estiver na área de stage e depois git restore projeto_base.ipynb 
+
+git commit --amend -m "Mensagem do commit": alterar um commit que já foi feito, utilizar o mesmo para commitar algum arquivo que esqueceu te adicionar
+
+git commit -a: para adicionar todos para comitar
+
+git revert (id do commit): reverter uma alteração que foi feita
